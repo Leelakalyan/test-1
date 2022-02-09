@@ -1,0 +1,29 @@
+input('name:')
+input('father name:')
+input('mother name:')
+input('brother name:')
+input('email id:')
+input('hobbies:')
+input('aim:')
+input('course:')
+input('college:')
+
+Output:
+name:
+Leelakalyan pilli
+father name:
+Jajibabu
+mother name:
+Lakshmi
+brother name:
+Veerababu
+email id:
+leelakalyanpilli@gmail.com
+hobbies:
+Playing chess
+aim:
+To became celebrity in sceince field
+course:
+Bsc(mccs)
+college:
+Aditya degree college tuni
